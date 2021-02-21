@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Zathura</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,25 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Download the desired theme file.
+2. Copy the contents of the file to `~/.config/zathura/zathurarc`, eg. to install the `rose-pine` theme do:
+```
+$ cp rose-pine ~/.config/zathura/zathurarc
+```
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+The previews are generated witht the `recolor` and `recolor-keephue` options set to `"true"`.
+
+Rosé Pine
+![Rosé Pine with Zathura](https://imgur.com/3PzVh5r.png)
+
+Rosé Pine Moon
+![Rosé Pine Moon with Zathura](https://imgur.com/tDSsxsi.png)
+
+Rosé Pine Dawn
+![Rosé Pine Dawn with Zathura](https://imgur.com/zrArXwi.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [edunfelt](https://github.com/edunfelt)
