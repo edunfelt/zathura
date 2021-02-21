@@ -21,7 +21,7 @@ $ cp rose-pine ~/.config/zathura/zathurarc
 
 ## Gallery
 
-The previews are generated witht the `recolor` and `recolor-keephue` options set to `"true"`.
+The previews are generated with the `recolor` and `recolor-keephue` options set to `"true"`.
 
 Rosé Pine
 ![Rosé Pine with Zathura](https://imgur.com/3PzVh5r.png)
